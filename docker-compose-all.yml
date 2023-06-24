@@ -11,6 +11,8 @@ services:
       - '-stats=false'
       - '-stratum=:5555'
       - '-prom=:2114'
+      - '-mindiff=64'
+      - '-extranonce=2'
       - '-kaspa=host.docker.internal:16110'
     ports:
       - 5555:5555
