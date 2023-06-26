@@ -41,4 +41,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: domgravel77/kaspa_bridge:latest
+          tags: dantoksg/kaspa_bridge:latest
