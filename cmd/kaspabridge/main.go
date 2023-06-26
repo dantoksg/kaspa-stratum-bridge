@@ -8,7 +8,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/onemorebsmith/kaspastratum/src/kaspastratum"
+	"github.com/dantoksg/kaspastratum/src/kaspastratum"
 	"gopkg.in/yaml.v2"
 )
 
