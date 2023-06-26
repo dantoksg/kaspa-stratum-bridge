@@ -7,7 +7,7 @@ import (
 
 	"github.com/kaspanet/kaspad/app/appmessage"
 	"github.com/kaspanet/kaspad/infrastructure/network/rpcclient"
-	"github.com/onemorebsmith/kaspastratum/src/gostratum"
+	"github.com/dantoksg/kaspastratum/src/gostratum"
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
 )
