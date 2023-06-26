@@ -2,7 +2,7 @@ volumes:
   prometheus_data: {}
 services:
   ks_bridge:
-    image: domgravel77/kaspa_bridge:latest
+    image: dantoksg/kaspa_bridge:latest
     container_name: ks_bridge
     restart: unless-stopped
     user: "0"
