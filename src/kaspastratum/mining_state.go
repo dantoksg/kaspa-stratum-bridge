@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/kaspanet/kaspad/app/appmessage"
-	"github.com/onemorebsmith/kaspastratum/src/gostratum"
+	"github.com/dantoksg/kaspastratum/src/gostratum"
 )
 
 const maxjobs = 32
