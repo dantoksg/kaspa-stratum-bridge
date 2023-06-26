@@ -1,4 +1,4 @@
-module github.com/domgravel77/kaspastratum
+module github.com/dantoksg/kaspastratum
 
 go 1.18
 
