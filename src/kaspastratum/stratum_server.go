@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/mattn/go-colorable"
-	"github.com/onemorebsmith/kaspastratum/src/gostratum"
+	"github.com/dantoksg/kaspastratum/src/gostratum"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
